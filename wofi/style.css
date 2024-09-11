@@ -1,0 +1,47 @@
+window {
+margin: 5px;
+//border: 2px solid red;
+background-color:transparent;
+font-size: 40px;
+}
+
+#input {
+
+margin: px;
+border:2px solid transparent;
+background-color: rgba(0,0,0,.5);
+color:red;
+}
+
+#inner-box {
+margin: 5px;
+border:2px solid transparent;
+background-color: transparent;
+}
+
+#outer-box {
+margin: 5px;
+border: 2px solid transparent;
+background-color:transparent;
+color: red;
+}
+
+#scroll {
+margin: 0px;
+border: 2px solid transparent;
+}
+
+#text {
+margin: 5px;
+border: 2px solid transparent;
+background-color:transparent;
+}
+
+#entry:selected {
+background-color: rgba(0,0,0,.5);
+color: red;
+}
+#text:selected {
+background-color: transparent;
+
+}
