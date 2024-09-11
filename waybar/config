@@ -1,0 +1,32 @@
+{
+"layer": "top",
+"position": "top",
+"height": 20,
+"wifth": 1280,
+
+
+"modules-left": [
+"hyprland/workspaces",
+
+],
+
+
+
+"modules-center": [
+"hyprland/window",
+
+],
+
+"modules-right":[
+"clock",
+"battery",
+"bluetooth",
+"notification",
+],
+
+
+
+
+
+
+}
